@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Github",
+    "link": "https://github.com/AveraqeDev",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 1,
+    "name": "StackOverflow",
+    "link": "https://stackoverflow.com/users/story/mattwagaman",
+    "icon": "/icons/stackoverflow.svg"
+  },
+  {
+    "id": 2,
+    "name": "Twitter",
+    "link": "https://twitter.com/smakosh",
+    "icon": "/icons/twitter.svg"
+  },
+  {
+    "id": 3,
+    "name": "LinkedIn",
+    "link": "https://linkedin.com/in/matthew-k-wagaman",
+    "icon": "/icons/linkedin.svg"
+  }
+]
