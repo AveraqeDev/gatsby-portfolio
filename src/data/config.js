@@ -1,8 +1,8 @@
 module.exports = {
   defaultTitle: 'Matt Wagaman',
-  logo: 'https://matthewwagaman.com/favicon/favicon-512.png',
+  logo: 'https://averaqedev.com/favicon/favicon-512.png',
   author: 'Matthew Wagaman',
-  url: 'https://matthewwagaman.com',
+  url: 'https://averaqedev.com',
   legalName: 'Matthew Wagaman',
   defaultDescription: 'I’m Matt and I’m a Full Stack engineer!',
   socialLinks: {
